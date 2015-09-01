@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "eldoc.net",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false
+          },
+          "_anchor": "menu-0",
+          "logo": "{PROJECT_IMAGES}eldoc.jpg",
+          "brand": "<a href=\"#\">Mobirise</a>",
+          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"index.html\" data-app-btn=\"true\" class=\"\">HOME</a></li><li><a href=\"page1.html\" data-app-btn=\"true\" class=\"\">ABOUT</a></li><li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">CONTACT</a></li></ul>"
+        },
+        {
+          "_name": "header2",
+          "_params": {
+            "overlay": true,
+            "bgColorRadio": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "showArrow": false,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}bg2.jpg",
+            "bgColor": "#f0f0f0",
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false
+          },
+          "buttons": "",
+          "_anchor": "header2-8",
+          "title": "eldoc.net",
+          "text": "<h2><br></h2><p><br></p>"
+        }
+      ]
+    }
+  }
+}
